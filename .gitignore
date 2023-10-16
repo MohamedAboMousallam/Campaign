@@ -1,0 +1,4 @@
+node_modules/
+
+# Ignore node_modules in the frontend (client) directory
+client/node_modules
